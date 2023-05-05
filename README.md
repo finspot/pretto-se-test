@@ -44,5 +44,5 @@ URL : https://europe-west1-pretto-apis.cloudfunctions.net/fake-finspot
 METHOD : GET
 
 AUTHORIZATION : Basic auth
-  - username : *ton_nom*
+  - username : [ton_nom]
   - password : **pretto-se-test**
