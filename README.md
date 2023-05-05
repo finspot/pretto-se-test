@@ -37,7 +37,7 @@ make console
 ___
 
 ## Doc de l'API Finspot
-L'API Finspot expose la données de finançabilité aux équipes Pretto et Oleen (mandataires indépendant). Dans le cadre de ce test l'API te renverra toujours la même donnée, à toi de l'exploiter/retraiter.
+L'API Finspot expose la donnée de finançabilité aux équipes Pretto et Oleen (mandataires indépendants). Dans le cadre de ce test l'API te renverra toujours la même donnée, à toi de l'exploiter/retraiter.
 
 URL : https://europe-west1-pretto-apis.cloudfunctions.net/fake-finspot
 
